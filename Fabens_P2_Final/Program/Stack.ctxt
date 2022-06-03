@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Stack\ data\ structure\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ 4/5/2022\r\n
+comment1.params=
+comment1.target=Stack()
+comment1.text=\r\n\ Construct\ empty\ stack\r\n
+comment2.params=
+comment2.target=boolean\ empty()
+comment2.text=\r\n\ Returns\ whether\ there\ are\ items\ in\ stack\r\n
+comment3.params=val
+comment3.target=void\ push(java.lang.Comparable)
+comment3.text=\r\n\ Add\ item\ to\ the\ top\ of\ the\ stack.\r\n\ \r\n\ @param\ val\ item\ to\ put\ on\ stack\r\n
+comment4.params=
+comment4.target=java.lang.Comparable\ pull()
+comment4.text=\r\n\ Remove\ the\ item\ at\ the\ top\ of\ the\ stack.\r\n\ \r\n\ @returns\ item\ removed\ from\ top\ of\ stack.\r\n
+comment5.params=
+comment5.target=java.lang.Comparable\ peek()
+comment5.text=\r\n\ Returns\ the\ the\ item\ at\ the\ top\ of\ the\ stack\ without\ removing\ it.\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Returns\ number\ of\ items\ in\ the\ data\ structure\r\n
+numComments=7

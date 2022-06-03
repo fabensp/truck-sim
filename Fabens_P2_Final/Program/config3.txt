@@ -1,0 +1,2 @@
+Model 10 6
+Truck 50

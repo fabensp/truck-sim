@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Configurator
+comment0.text=\r\n\ Configurator\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ \r\n
+comment1.params=filename
+comment1.target=void\ config(java.lang.String)
+numComments=2

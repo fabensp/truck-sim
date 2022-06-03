@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Delivery
+comment0.text=\r\n\ Like\ a\ node\ but\ for\ manifests.\ Stores\ info\ about\ a\ single\ trip.\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ \r\n
+comment1.params=c\ map
+comment1.target=Delivery(Truck,\ LinkedList)
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=
+comment2.target=Warehouse\ pickup()
+comment2.text=\r\n\ Returns\ pickup\ location\r\n
+comment3.params=
+comment3.target=Warehouse\ dropoff()
+comment3.text=\r\n\ Returns\ dropoff\ location\r\n
+comment4.params=
+comment4.target=Truck\ carrier()
+comment4.text=\r\n\ Returns\ carrier\r\n
+comment5.params=
+comment5.target=Shipment\ item()
+comment6.params=d
+comment6.target=int\ compareTo(Delivery)
+comment6.text=\r\n\ Compare\ two\ deliveries,\ using\ the\ item's\ id\ and\ the\ carrier's\ position\ relative\ to\ pickup\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Simulator
+comment0.text=\r\n\ Simulator\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Runs\ all\ the\ individual\ runthroughs\ of\ the\ simulation,\ according\ to\ proper\ seeds\r\n
+comment2.params=
+comment2.target=int\ get_cfg()
+comment2.text=\r\n\ Returns\ the\ current\ config\r\n
+numComments=3

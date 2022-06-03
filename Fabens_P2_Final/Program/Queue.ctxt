@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Queue\ data\ structure\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ 4/5/2022\r\n
+comment1.params=
+comment1.target=Queue()
+comment1.text=\r\n\ Construct\ empty\ queue\r\n
+comment2.params=val
+comment2.target=void\ join(java.lang.Comparable)
+comment2.text=\r\n\ Add\ item\ to\ the\ end\ of\ the\ queue.\r\n\ \r\n\ @param\ val\ item\ to\ add\ to\ queue\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ next()
+comment3.text=\r\n\ Remove\ the\ item\ at\ the\ front\ of\ the\ queue.\r\n\ \r\n\ @returns\ item\ removed\ from\ front\ of\ queue.\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ Returns\ number\ of\ items\ in\ the\ data\ structure\r\n
+numComments=5

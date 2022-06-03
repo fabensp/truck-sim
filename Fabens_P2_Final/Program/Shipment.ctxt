@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\r\n\ A\ shipment\ of\ goods.\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ 4/6/2022\r\n
+comment1.params=size
+comment1.target=Shipment(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Shipment\r\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\r\n\ Returns\ size\ of\ this\ shipment\r\n
+comment3.params=
+comment3.target=int\ id()
+comment3.text=\r\n\ Returns\ id\ of\ this\ shipment\r\n
+comment4.params=s
+comment4.target=int\ compareTo(Shipment)
+comment4.text=\r\n\ Returns\ the\ size\ difference\ between\ this\ and\ another\ shipment\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

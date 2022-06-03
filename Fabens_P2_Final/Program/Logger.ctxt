@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Logger
+comment0.text=\r\n\ Logger\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ \r\n
+comment1.params=l
+comment1.target=void\ debug(java.lang.String)
+comment1.text=\r\n\ Print\ info\ to\ the\ data\ file\ without\ overwriting\ the\ data\ that\ was\ there\ previously.\ \r\n\ This\ works\ pretty\ inefficiently\ by\ copying\ over\ everything\ that\ was\ there\ for\ every\ addition,\r\n\ but\ it's\ so\ that\ the\ info\ isn't\ lost\ if\ the\ file\ crashes\ before\ a\ flush.\r\n\ \r\n\ @param\ l\ text\ to\ insert\ at\ end\ of\ file\r\n
+comment2.params=l
+comment2.target=void\ log(java.lang.String)
+comment2.text=\r\n\ Add\ a\ line\ to\ the\ data\ output\ buffer\r\n
+comment3.params=
+comment3.target=void\ flush()
+comment3.text=\r\n\ Flush\ the\ data\ string\ to\ a\ file.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ wipe()
+comment4.text=\r\n\ Start\ off\ with\ a\ clean\ slate\!\ Deletes\ the\ debug\ and\ data\ files\ so\ that\ new\ ones\ can\ be\ created\r\n
+numComments=5

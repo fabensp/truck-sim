@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Data\ holder\ for\ a\ single\ node\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ 4/5/2022\r\n
+comment1.params=val\ next
+comment1.target=Node(java.lang.Comparable,\ Node)
+comment1.text=\r\n\ Constructor\ that\ stores\ a\ value\ in\ the\ node.\r\n\ \r\n\ @param\ value\ value\ to\ store\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ val()
+comment2.text=\r\n\ Value\ getter.\r\n\ \r\n\ @returns\ stored\ value\r\n
+comment3.params=val
+comment3.target=void\ set_val(java.lang.Comparable)
+comment3.text=\r\n\ Value\ setter.\r\n\ \r\n\ @param\ val\ value\ to\ store.\r\n
+comment4.params=
+comment4.target=Node\ next()
+comment4.text=\r\n\ Next\ reference\ getter.\r\n\ \r\n\ @returns\ stored\ reference\r\n
+comment5.params=next
+comment5.target=void\ set_next(Node)
+comment5.text=\r\n\ Next\ reference\ setter.\r\n\ \r\n\ @param\ next\ reference\ to\ store.\r\n
+numComments=6

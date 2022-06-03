@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DynamicMapCntrl
+comment1.params=
+comment1.target=DynamicMapCntrl()
+comment2.params=
+comment2.target=void\ refresh()
+comment3.params=item
+comment3.target=void\ add(Render)
+comment3.text=\r\n\ Add\ a\ single\ item\ to\ the\ map\r\n
+comment4.params=list
+comment4.target=void\ add_fl(LinkedList)
+comment4.text=\r\n\ Add\ a\ fleet\ of\ trucks\ to\ the\ map\r\n
+comment5.params=list
+comment5.target=void\ add_nw(LinkedList)
+comment5.text=\r\n\ Add\ a\ network\ of\ warehouses\ to\ the\ map\r\n
+comment6.params=str
+comment6.target=DynamicMapCntrl(java.lang.String)
+numComments=7

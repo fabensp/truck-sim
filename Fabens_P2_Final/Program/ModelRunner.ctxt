@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ModelRunner
+comment0.text=\r\n\ Runs\ one\ single\ instance\ of\ the\ sim\r\n\r\n\ @author\ Peter\ Fabens\r\n\ @version\ 4/16/2022\r\n
+comment1.params=c_num
+comment1.target=void\ sim(int)
+comment2.params=fl\ nw
+comment2.target=void\ config(int,\ int)
+comment2.text=\r\n\ Set\ config\ vars\r\n
+comment3.params=length\ ntwrk
+comment3.target=LinkedList\ gen_fleet(int,\ LinkedList)
+comment3.text=\r\n\ Generates\ a\ random\ list\ of\ trucks\r\n
+comment4.params=length
+comment4.target=LinkedList\ gen_ntwrk(int)
+comment4.text=\r\n\ Generates\ a\ random\ list\ of\ warehouses\r\n
+comment5.params=fleet
+comment5.target=boolean\ fleet_check(LinkedList)
+comment5.text=\r\n\ Checks\ each\ truck\ in\ the\ fleet\ for\ whether\ they\ still\ have\ unfulfilled\ deliveries\r\n
+numComments=6
